@@ -7,6 +7,7 @@ puzzles of your own!
 
 Below are some puzzles made with the sample grid and word list provided. The asterisk (*) represent a black square.
 
+```
 SHED*ABS*ORCA
 IOWA*RIP*NOON
 PEEL*ERA*SWAN
@@ -76,3 +77,4 @@ ACORN*LOAN***
 RAVE*JOB*AMID
 ISEE*EGO*MORE
 DENT*TOT*AMEN
+```
